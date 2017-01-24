@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542754856491",
+    "firebase_url": "https://fomo-54a56.firebaseio.com",
+    "project_id": "fomo-54a56",
+    "storage_bucket": "fomo-54a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542754856491:android:1173712fdb5ad41e",
+        "android_client_info": {
+          "package_name": "com.example.rahul.fomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542754856491-kea0dg0mrrvs487lj0kumbbsllb17bn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahul.fomo",
+            "certificate_hash": "44A24CE69DEDF1C5C5174012D93EF9324D1B9F70"
+          }
+        },
+        {
+          "client_id": "542754856491-g5cph8d5j2ojp3rmv592ct3r0neod9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW71EV98mHcBAZYMTDWoTKUerUpkmmEJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542754856491-g5cph8d5j2ojp3rmv592ct3r0neod9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
